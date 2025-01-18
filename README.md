@@ -8,6 +8,6 @@
 <img src="https://github.com/AlexDevForever/Projeto-Wecare/blob/master/img/Desktop-Wide-Coverage.jpg" alt="Img-to-Desk"/>
 <h3>Este Site também é responsivo! 😎 :iphone:</h3>
 <br>
-<img src="https://github.com/AlexDevForever/Projetos-Responsivos/blob/main/img/We%20Care-Cell.png" alt="Projeto-We Care" />
+<img src="https://github.com/AlexDevForever/Projeto-Wecare/blob/master/img/cell-wide%20coverade.jpg" alt="Imagem-to-Cell"/>
 <br>
 <h3>Agradeço a Deus por tudo! 🙏</h3>
