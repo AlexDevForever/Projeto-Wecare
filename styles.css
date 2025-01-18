@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", serif;
+}
+
+a {
+    width: 79px;
+    height: 29px;
+    font-weight: 600px;
+    font-size: 24px;
+    color: rgba(152, 157, 156, 1);
+    margin-right: 23px;
+}
+
+header {
+    margin: 44px 0 0 76px;
+}
+
+.button-1 {
+    width: 130px;
+    height: 41px;
+    border-radius: 20.5px;
+    background: rgba(102, 90, 225, 1);
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    color: #ffffff;
+    border: none;
+}
+
+section {
+    display: inline-block;
+}
+
+h1 {
+    width: 513px;
+    height: 122px;
+    font-weight: 900;
+    font-size: 100px;
+    color: rgba(81, 81, 81, 1);
+}
+
+h2 {
+    width: 448px;
+    height: 71px;
+    font-weight: 500;
+    font-size: 58px;
+    color: rgba(81, 81, 81, 1);
+}
+
+p {
+    width: 515px;
+    height: 87px;
+    font-weight: 400;
+    font-size: 24px;
+    color: rgba(132, 132, 132, 1);
+    margin-bottom: 65px;
+    margin-top: 32px;
+}
+
+.button-2 {
+    width: 239;
+    height: 64px;
+    border-radius: 28px;
+    background: rgba(173, 255, 0, 1);
+    font-size: 28px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 1);
+    line-height: 34px;
+    box-shadow: rgba(0, 0, 0, 0.25);
+    border: none;
+    padding: 15px 46px 23px 46px;
+}
+
+img {
+    width: 568px;
+    height: 500px;
+    margin-top: 144px;
+    margin-left: 125px;
+}
+
+@media screen and (max-width: 700px ) {
+    header {
+        display: none;
+    }
+
+    p {
+        display: none;
+    }
+
+    section {
+        display: block;
+    }
+
+    .container-left {
+        height: 60vh;
+        width: 100%;
+    }
+
+    .container-right {
+        height: 40vh;
+        width: 100%;
+        text-align: center;
+    }
+
+    img {
+        width: 354px;
+        height: 317px;
+        margin: 149px 18px 24px 18px;
+    }
+
+    h1 {
+        width: 263px;
+        height: 52px;
+        font-size: 50px;
+        line-height: 61px;
+        margin-left: 62px;
+    }    
+
+    h2 {
+        width: 232px;
+        height: 37px;
+        font-size: 30px;
+        line-height: 37px;
+        margin-top: 7px ;        
+        margin-bottom: 17px;
+        margin-left: 78px;
+    }
+
+    .button-2 {
+        box-shadow: rgba(0, 0, 0, 0.25);
+
+
+    }
+}
